@@ -1,6 +1,6 @@
 # Enumeration tool to look for certain files on scale
 
-This tool checks for the presence of a certain file for a given list of domains called "wordlist.txt".
+This tool checks for the presence of a certain file for a given list of domains called "domains.txt".
 
 ```
 ./powerenum.sh directory grep_value output_file
